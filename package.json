@@ -2,8 +2,9 @@
   "name": "proyecto-gestion-configuracion",
   "version": "0.1.0",
   "description": "Plataforma de gestión e inscripción de eventos",
-  "main": "server.js",
+  "main": "js/server.js",
   "scripts": {
+    "server": "node js/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
